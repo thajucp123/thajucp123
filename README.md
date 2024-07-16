@@ -3,7 +3,7 @@
 
 **Portfolio:** [www.thajucp.in](https://www.thajucp.in/)
 
-### 🎯 My Skill set:
+## 🎯 My Skill set:
  - MERN Stack:
     - MongoDB
     - Express
