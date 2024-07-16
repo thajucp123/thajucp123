@@ -1,5 +1,5 @@
 👋 Hi, I’m Thajudeen CP, a passionate full stack developer with expertise in MERN (MongoDB, Express, React, Node.js) stack and additional knowledge in Flutter and Android Java.
-   I'm excited to share my projects and skills with you!
+&nbsp;&nbsp;&nbsp; I'm excited to share my projects and skills with you!
 
 **Portfolio:** [www.thajucp.in](https://www.thajucp.in/)
 
@@ -26,7 +26,7 @@
 - Mentorship or guidance
 
 📧thajucp123@gmail.com <br/>
-<img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202085linkedinlogosocialsocialmedia-115603_115698.png" width="40" height="40">[Linkedin Profile](https://www.linkedin.com/in/thaju-fakrudheen/) 
+<img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202085linkedinlogosocialsocialmedia-115603_115698.png" width="20" height="20"> [Linkedin Profile](https://www.linkedin.com/in/thaju-fakrudheen/) 
 
 <!---
 thajucp123/thajucp123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
