@@ -25,8 +25,8 @@
 - Project discussions
 - Mentorship or guidance
 
-📧thajucp123@gmail.com
-<img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202085linkedinlogosocialsocialmedia-115603_115698.png" width="100" height="100">[Linkedin Profile](https://www.linkedin.com/in/thaju-fakrudheen/) 
+📧thajucp123@gmail.com <br/>
+<img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202085linkedinlogosocialsocialmedia-115603_115698.png" width="40" height="40">[Linkedin Profile](https://www.linkedin.com/in/thaju-fakrudheen/) 
 
 <!---
 thajucp123/thajucp123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
