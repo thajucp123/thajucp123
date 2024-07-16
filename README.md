@@ -20,6 +20,8 @@
 
 - Add to Cart : Javascript & Firebase project - [repository link](https://github.com/thajucp123/add-to-cart.git)
 
+#
+
 ### 📫 Feel free to reach out to me for:
 - Collaboration opportunities, both open source & commercial
 - Project discussions
