@@ -14,6 +14,7 @@
     - Android Java
  - Version control (Git)
  - Cloud deploys (AWS, Vercel, Netlify)
+ - CI/CD (Github Actions , Jenkins)
  - Figma  | Adobe Photoshop
 
 ## 🛠️ Project Repos:
