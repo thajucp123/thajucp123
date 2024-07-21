@@ -29,7 +29,7 @@
 - Project discussions
 - Mentorship or guidance
 
-📧thajucp123@gmail.com <br/>
+📧 thajucp123@gmail.com <br/>
 <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202085linkedinlogosocialsocialmedia-115603_115698.png" width="20" height="20"> [Linkedin Profile](https://www.linkedin.com/in/thaju-fakrudheen/) 
 
 <!---
