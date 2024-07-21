@@ -19,6 +19,7 @@
 
 ## 🛠️ Project Repos:
 
+- KudosZone : Javascript & Firebase project - [repository link](https://github.com/thajucp123/kudos-zone.git)
 - Add to Cart : Javascript & Firebase project - [repository link](https://github.com/thajucp123/add-to-cart.git)
 
 #
