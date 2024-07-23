@@ -8,10 +8,12 @@
     - MongoDB
     - Express
     - React
+    - Next.js
     - Node.js
  - Mobile Development:
     - Flutter
     - Android Java / Kotlin
+ - Electron js
  - Version control (Git)
  - Cloud deploys (AWS, Vercel, Netlify)
  - CI/CD (Github Actions , Jenkins)
