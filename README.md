@@ -16,6 +16,8 @@
  - Electron js
  - Version control (Git)
  - Cloud deploys (AWS, Vercel, Netlify)
+ - Selenium, Jest
+ - JIRA
  - CI/CD (Github Actions , Jenkins)
  - Figma  | Adobe Photoshop
 
