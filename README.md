@@ -1,4 +1,4 @@
-👋 Hi, I’m Thajudeen CP, a passionate full stack developer with expertise in MERN (MongoDB, Express, React, Node.js) stack and additional knowledge in Flutter and native Android.
+👋 Hi, I’m Thajudeen CP, a passionate full stack developer & AI/ML engineer with expertise in MERN (MongoDB, Express, React, Node.js) stack, AI/ML solutions and additional knowledge in Flutter and native Android.
 <br/><br/>I'm excited to share my projects and skills with you!
 
 **Portfolio:** [www.thajucp.in](https://www.thajucp.in/)
