@@ -105,6 +105,7 @@ Some of my works include:
 * *In the Shadow's Wake*
 * *Eir Ad (ഈർ ആദ്)*
 * *The Valiant King (ധീര രാജൻ)*
+* *Vanaganam Republic (വനഗണം റിപ്പബ്ലിക്ക്)*
 * *My Daughter's Name (മകളുടെ പേര്)*
 * *In the Ancient Silence*
 * *In the Timeless Sands*
