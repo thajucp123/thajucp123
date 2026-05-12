@@ -122,7 +122,7 @@ Outside programming, I enjoy Linux systems, hardware restoration, DIY electronic
 
 # 📫 Connect With Me
 
-📧 [info@thajucp.in](mailto:info@thajucp.in) , [thajucp123@gmail.com](mailto:thajucp123@gmail.com)
+📧 [mail@thajucp.in](mailto:mail@thajucp.in) , [thajucp123@gmail.com](mailto:thajucp123@gmail.com)
 
 💼 [LinkedIn](https://www.linkedin.com/in/thaju-fakrudheen/)
 
