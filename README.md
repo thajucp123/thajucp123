@@ -88,6 +88,12 @@ Community-focused platform built for my village, providing locally relevant info
 
 Built using Next.js, Flutter, Firebase, and AWS deployment workflows.
 
+🖇️ **Repos From the Project:**
+- [Next.js Web UI of Main app](https://github.com/thajucp123/ente-kottakkal-web)
+- Android Flutter
+- Android Kotlin of Admin App
+- Landing Page
+
 ---
 
 ### 🛠️ Other Notable Repos
