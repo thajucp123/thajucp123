@@ -60,6 +60,14 @@ Currently focused on Computer Vision, Machine Learning, and practical AI-driven 
 
 ---
 
+## 🎓 Education
+
+* Master of Computer Applications (MCA) — Yenepoya University *(Ongoing)*
+* BSc. in Computer Science - Univerity of Calicut
+* AI/ML Developer Certification Course — ASAP Kerala
+
+---
+
 # 🚀 Featured Projects
 
 ### 🔍 Weld Defect Detection System
