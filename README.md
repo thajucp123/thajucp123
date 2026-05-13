@@ -94,6 +94,8 @@ Community-focused platform built for my village, providing locally relevant info
 * workers & shop directory
 * organization listings
 
+#### [Go to Landing Page](https://ente-kottakkal-landing.vercel.app/)
+
 Built using Next.js, Flutter, Firebase, and AWS deployment workflows.
 
 🖇️ **Repos From the Project:**
