@@ -100,9 +100,9 @@ Built using Next.js, Flutter, Firebase, and AWS deployment workflows.
 
 🖇️ **Repos From the Project:**
 - [Next.js Web UI of Main app](https://github.com/thajucp123/ente-kottakkal-web)
-- Android Flutter
+- [Android Flutter](https://github.com/thajucp123/ente-kottakkal-flutter-shell)
 - Android Kotlin of Admin App
-- Landing Page
+- [Landing Page](https://ente-kottakkal-landing.vercel.app/)
 
 ---
 
